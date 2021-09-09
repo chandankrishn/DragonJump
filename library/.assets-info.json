@@ -1,0 +1,197 @@
+{
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images": {
+    "time": 1631165082638.9387,
+    "uuid": "3c0fb44d-febf-4d42-ac53-115e44d429dc",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images.meta": {
+    "time": 1631093274182.4365
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene": {
+    "time": 1631183717574.118,
+    "uuid": "0520a9ff-21ef-4832-b21b-b8b6f50b5cc3",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene.meta": {
+    "time": 1631093309529.8623
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts": {
+    "time": 1631166598505.2468,
+    "uuid": "b069d55e-8025-4eb8-9b7d-9ebeb4c7f553",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts.meta": {
+    "time": 1631093328267.3728
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/download (1).jpeg": {
+    "time": 1631093394623.4824,
+    "uuid": "dbddbe90-c762-4e08-9089-343a743457d4",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/download (1).jpeg.meta": {
+    "time": 1631093394642.1802
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/cock_PNG19932.png": {
+    "time": 1631093693343.744,
+    "uuid": "6b3f1d6a-6f5a-4b05-8490-12dfb4ec7164",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/cock_PNG19932.png.meta": {
+    "time": 1631093693368.746
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/mountains-at-night-vector.jpeg": {
+    "time": 1631093811265.3057,
+    "uuid": "d8009bd2-ad23-44cb-88cb-68ad2e2bae3c",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/mountains-at-night-vector.jpeg.meta": {
+    "time": 1631093811280.733
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/images.png": {
+    "time": 1631094188098.547,
+    "uuid": "46d6bc14-5e9f-49e8-b380-bb5ac4967841",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/images.png.meta": {
+    "time": 1631094188116.3752
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/base.ts": {
+    "time": 1631097823742.3198,
+    "uuid": "0c9d0261-5c7f-46fc-a4ef-44922757bb2b",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/base.ts.meta": {
+    "time": 1631095001075.0693
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg.ts.meta": {
+    "time": 1631098132394.0803
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scene.scene": {
+    "time": 1631106471095.0789,
+    "uuid": "177a5142-1d71-4a30-9577-7819c4e1e0c0",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scene.scene.meta": {
+    "time": 1631101085777.4426
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg2.ts": {
+    "time": 1631102109579.77,
+    "uuid": "2febdaac-5bbf-4bfe-b8d4-41169adad76c",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg2.ts.meta": {
+    "time": 1631101608822.5361
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts": {
+    "time": 1631186511626.6973,
+    "uuid": "e0c166c7-19f3-4e54-9273-9fe10790549a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts.meta": {
+    "time": 1631163895383.5122
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus1.png": {
+    "time": 1631164976019.1533,
+    "uuid": "ca4db1b5-660d-49e4-a9a6-14e51970f636",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus1.png": {
+    "time": 1631164976019.2864,
+    "uuid": "134e0346-7b34-44e5-92fa-6e70a890d6d8",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus3.png": {
+    "time": 1631164976019.1587,
+    "uuid": "1c644896-d7ad-47bf-81c5-0d393bc6ca8e",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus2.png": {
+    "time": 1631164976019.1802,
+    "uuid": "f5ea6a86-277c-49a4-a6a6-55dbdefb2648",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus1.png.meta": {
+    "time": 1631164976055.5974
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus1.png.meta": {
+    "time": 1631164976088.5461
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus3.png.meta": {
+    "time": 1631164976106.6902
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus2.png.meta": {
+    "time": 1631164976132.8394
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus1.png.meta": {
+    "time": 1631164976088.5461
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus1.png": {
+    "time": 1631164976019.2864,
+    "uuid": "134e0346-7b34-44e5-92fa-6e70a890d6d8",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus3.png.meta": {
+    "time": 1631164976106.6902
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus3.png": {
+    "time": 1631164976019.1587,
+    "uuid": "1c644896-d7ad-47bf-81c5-0d393bc6ca8e",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus1.png.meta": {
+    "time": 1631164976055.5974
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus1.png": {
+    "time": 1631164976019.1533,
+    "uuid": "ca4db1b5-660d-49e4-a9a6-14e51970f636",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus2.png.meta": {
+    "time": 1631164976132.8394
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus2.png": {
+    "time": 1631164976019.1802,
+    "uuid": "f5ea6a86-277c-49a4-a6a6-55dbdefb2648",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/scene.scene.meta": {
+    "time": 1631101085777.4426
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/scene.scene": {
+    "time": 1631183722326.7456,
+    "uuid": "177a5142-1d71-4a30-9577-7819c4e1e0c0",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/sprite.scene": {
+    "time": 1631166357599.4275,
+    "uuid": "733e1bdd-d6f3-4cf8-bebd-de57d388e46c",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/sprite.scene.meta": {
+    "time": 1631166175044.6194
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/LargeCactus1.prefab": {
+    "time": 1631168741975.276,
+    "uuid": "770a0346-8991-4ca2-95e8-976ae9571a64",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/LargeCactus1.prefab.meta": {
+    "time": 1631166221573.017
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts": {
+    "time": 1631189461785.9585,
+    "uuid": "2c186b55-8caf-4411-80c5-629873afccff",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts.meta": {
+    "time": 1631166598506.7288
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/jkl.scene": {
+    "time": 1631183776415.5627,
+    "uuid": "dee71408-a3e6-417b-9e43-ba3648c0f1de",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/jkl.scene.meta": {
+    "time": 1631183717579.147
+  }
+}

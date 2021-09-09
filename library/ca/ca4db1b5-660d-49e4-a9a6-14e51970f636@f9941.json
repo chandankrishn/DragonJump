@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SmallCactus1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 2,
+      "width": 40,
+      "height": 69
+    },
+    "offset": {
+      "x": 0,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 40,
+      "height": 71
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ca4db1b5-660d-49e4-a9a6-14e51970f636@6c48a",
+    "packable": true
+  }
+}
