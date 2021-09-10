@@ -1,5 +1,5 @@
 
-import { _decorator, Component, Node, Enum, Prefab, SpriteFrame, instantiate, UITransform, Size, Vec2, Vec3, Sprite, tween, Intersection2D, director } from 'cc';
+import { _decorator, Component, Node, Enum, Prefab, SpriteFrame, instantiate, UITransform, Size, Vec2, Vec3, Sprite, tween, Intersection2D, director, Label, Graphics, Color, UI, Scheduler } from 'cc';
 const { ccclass, property } = _decorator;
 
 /**
@@ -13,43 +13,44 @@ const { ccclass, property } = _decorator;
  * ManualUrl = https://docs.cocos.com/creator/3.3/manual/en/
  *
  */
- enum HURDLE
- {
-     SMALL_CACTUS=0,
-     MID_CACTUS=1,
-     LARGE_CACTUS=2
- };
+
 @ccclass('Gameplay')
 export class Gameplay extends Component {
-    // [1]
-    // dummy = '';
-
-    // [2]
-    // @property
-    // serializableDummy = 0;
-    @property({type:Enum (HURDLE)})
-    hurdleType=[];
-
+ 
+  
     @property(Prefab)
     hurdle_pre=null;
+
+    @property(Prefab)
+    load=null;
+
+    @property(Prefab)
+    over=null;
 
     @property(SpriteFrame)
     Hurdle_images=[];
     public hurdle:any=[];
+    public butt:any=null;
+    public op:any=null;
 
     setcontentSize(rand:number,num:number)
     {
         if(rand==0)
         {
-            this.hurdle[num].setContentSize(new Size(10,18));
+            this.hurdle[num].getComponent(UITransform).setContentSize(new Size(10,18));
 
+        
         }
-        else{
-            this.hurdle[num].setContentSize(new Size(20,18));
+        else if(rand ==1)
+        {
 
+       
+            this.hurdle[num].getComponent(UITransform).setContentSize(new Size(18,16));
         }
-        
-        
+        else
+        {
+            this.hurdle[num].getComponent(UITransform).setContentSize(new Size(15,15));
+        }
     }
     random(num:number)
     {
@@ -57,17 +58,12 @@ export class Gameplay extends Component {
         rand=Math.floor(rand);
         this.hurdle[num].getComponent(Sprite).spriteFrame=this.Hurdle_images[rand];
         this.setcontentSize(rand,num);
-
     }
-    
     setposition(num:number)
     {
         this.hurdle[num].setPosition(new Vec3(130,-50,0));
         this.random(num);
     }
-
-
-    
     assign(num:number)
     {
         this.hurdle[num]=instantiate(this.hurdle_pre);
@@ -76,6 +72,7 @@ export class Gameplay extends Component {
     }
     check(num:number)
     {
+       
         if(this.hurdle[num].position.x< -130)
             {
             
@@ -83,76 +80,126 @@ export class Gameplay extends Component {
                 return false;
             }
             return true;
-
-        
-
     }
-    move(num:number)
+    public score:any=0;
+
+    // move(num:number)
+    // {
+
+    //    let flag=0;
+    //    let flag2=0;
+    //     this.schedule(()=>{
+    //         if(flag===50)
+    //         {
+    //             flag=0;
+    //             this.score++;
+    //         }
+    //         if(flag2===100)
+    //         {
+    //             this.assign(1);   
+
+    //         }
+    //             
+               
+    //             flag2++;
+    //          flag++;
+    //         },
+
+    //           0.01);
+        
+    // }
+    public track1:any=0;
+    
+    public track2:any=0;
+
+    move()
     {
+        this.track++;
+        for(let i=0;i<this.hurdle.length;i++)
+               {
+                     if(this.check(i))
+                     {
+                       
+                         this.hurdle[i].setPosition(new Vec3(this.hurdle[i].position.x-1,this.hurdle[i].position.y,1));
+                     }
+                 }
 
-
-        this.schedule(()=>{
-            
-            if(this.check(num))
-            {
-                
-
-                        this.hurdle[num].setPosition(new Vec3(this.hurdle[num].position.x-1,this.hurdle[num].position.y,1));
-                     
-
-
-
-            }
-             },
-              0.1);
-        
     }
-    public colide1:any=null;
-    public colide2:any=null;
-
-
-
-    start () {
-
-
-       
-      this.assign(5);
-      this.move(5);
-      
-
-        console.log("cocks points");
-
-var qwe:any=this.node.getChildByName('cock').getComponent(UITransform).getBoundingBox();
-console.log(qwe);
  
+    public colide1:any=null;
+  
+onLoad()
+{
+      this.butt=instantiate(this.load);
+        this.node.addChild(this.butt); 
+        this.butt.getComponent(UITransform).setContentSize(new Size(200,100));
+        this.butt.on(Node.EventType.MOUSE_UP,function(event:any)
+        {
+            tween(this.butt)
+            .by(0.2,{scale : new Vec2(0.2,0.2)})
+            .to(0.5,{scale : new Vec2(0,0)})
+            .start();
+            this.schedule(this.move(),0.01);
+           
 
-      
-     
-     
 
 
 
-        
-
-        //[3]
+        },this);
     
-    
+
 }
+// restart()
+// {
+    
+//     for(var i=0;i<this.hurdle.length;i++)
+//     {
+//         this.setposition(i);
+
+//     }
+//     this.op.on(Node.EventType.MOUSE_UP,function(event:any)
+//         {
+//             tween(this.op)
+//             .by(0.2,{scale : new Vec2(0.2,0.2)})
+//             .to(0.5,{scale : new Vec2(0,0)})
+//             .start();
+//             this.assign(0);
+//             this.move(0);
+
+//         },this);
+
+
+    
+
+
+// }
 
     update (deltaTime: number) {
+        this.node.getChildByName('score').getComponent(Label).string=`Score : ${this.score}`;
+        if(this.track1===50)
+        if(this.track2===100)
+        {
+            this.assign(1);
+        }
+        
+        for(let i=0;i<this.hurdle.length;i++)
+        {
+        
         this.colide1=Intersection2D.rectRect(
-            this.node.getChildByName('cock').getComponent(UITransform).getBoundingBox(),
-            this.hurdle[0].getComponent(UITransform).getBoundingBox()
+            this.node.getChildByName('cock').getChildByName('cock1').getComponent(UITransform).getBoundingBoxToWorld(),
+            this.hurdle[i].getComponent(UITransform).getBoundingBoxToWorld()
             );
-           
+            console.log(this.colide1);
             if(this.colide1)
             {
+                this.op=instantiate(this.over);
+                this.node.addChild(this.op); 
+                this.op.getComponent(UITransform).setContentSize(new Size(200,100));
+                console.log("okaay restart calling");
                 director.pause();
-             console.log(this.node.getChildByName('cock').getComponent(UITransform).getBoundingBox());
-           
              
-
             }
+        }
             
    
     }

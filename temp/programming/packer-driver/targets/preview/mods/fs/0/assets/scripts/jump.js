@@ -69,11 +69,11 @@ System.register(["cc"], function (_export, _context) {
         // @property
         // serializableDummy = 0;
         _proto.start = function start() {
-          this.animmation = tween(this.node).by(1, {
-            position: new Vec3(10, 50, 1)
+          this.animmation = tween(this.node).by(0.8, {
+            position: new Vec3(0, 50, 1)
           }, {
             easing: 'fade'
-          }).by(0.5, {
+          }).by(0.7, {
             position: new Vec3(0, -50, 1)
           }, {
             easing: 'fade'

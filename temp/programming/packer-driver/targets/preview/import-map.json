@@ -35,9 +35,9 @@
       "cc": "./mods/cce/internal/x/cc.js"
     },
     "./mods/cce/internal/x/prerequisite-imports.js": {
-      "__unresolved_0": "./mods/fs/0/assets/scripts/base.js",
-      "__unresolved_3": "./mods/fs/0/assets/scripts/jump.js",
       "__unresolved_1": "./mods/fs/0/assets/scripts/bg2.js",
+      "__unresolved_3": "./mods/fs/0/assets/scripts/jump.js",
+      "__unresolved_0": "./mods/fs/0/assets/scripts/base.js",
       "__unresolved_2": "./mods/fs/0/assets/scripts/gameplay.js"
     },
     "./mods/fs/0/assets/scripts/gameplay.js": {

@@ -1,7 +1,7 @@
 System.register(["cc"], function (_export, _context) {
   "use strict";
 
-  var _cclegacy, _decorator, Component, Enum, Prefab, SpriteFrame, instantiate, UITransform, Size, Vec3, Sprite, Intersection2D, director, _dec, _dec2, _dec3, _dec4, _class, _class2, _descriptor, _descriptor2, _descriptor3, _temp, _crd, ccclass, property, HURDLE, Gameplay;
+  var _cclegacy, _decorator, Component, Node, Prefab, SpriteFrame, instantiate, UITransform, Size, Vec2, Vec3, Sprite, tween, Intersection2D, director, Label, _dec, _dec2, _dec3, _dec4, _dec5, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _temp, _crd, ccclass, property, Gameplay;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -16,16 +16,19 @@ System.register(["cc"], function (_export, _context) {
       _cclegacy = _cc.cclegacy;
       _decorator = _cc._decorator;
       Component = _cc.Component;
-      Enum = _cc.Enum;
+      Node = _cc.Node;
       Prefab = _cc.Prefab;
       SpriteFrame = _cc.SpriteFrame;
       instantiate = _cc.instantiate;
       UITransform = _cc.UITransform;
       Size = _cc.Size;
+      Vec2 = _cc.Vec2;
       Vec3 = _cc.Vec3;
       Sprite = _cc.Sprite;
+      tween = _cc.tween;
       Intersection2D = _cc.Intersection2D;
       director = _cc.director;
+      Label = _cc.Label;
     }],
     execute: function () {
       _crd = true;
@@ -48,38 +51,40 @@ System.register(["cc"], function (_export, _context) {
        *
        */
 
-      (function (HURDLE) {
-        HURDLE[HURDLE["SMALL_CACTUS"] = 0] = "SMALL_CACTUS";
-        HURDLE[HURDLE["MID_CACTUS"] = 1] = "MID_CACTUS";
-        HURDLE[HURDLE["LARGE_CACTUS"] = 2] = "LARGE_CACTUS";
-      })(HURDLE || (HURDLE = {}));
-
-      ;
-
-      _export("Gameplay", Gameplay = (_dec = ccclass('Gameplay'), _dec2 = property({
-        type: Enum(HURDLE)
-      }), _dec3 = property(Prefab), _dec4 = property(SpriteFrame), _dec(_class = (_class2 = (_temp = class Gameplay extends Component {
+      _export("Gameplay", Gameplay = (_dec = ccclass('Gameplay'), _dec2 = property(Prefab), _dec3 = property(Prefab), _dec4 = property(Prefab), _dec5 = property(SpriteFrame), _dec(_class = (_class2 = (_temp = class Gameplay extends Component {
         constructor(...args) {
           super(...args);
 
-          _initializerDefineProperty(this, "hurdleType", _descriptor, this);
+          _initializerDefineProperty(this, "hurdle_pre", _descriptor, this);
 
-          _initializerDefineProperty(this, "hurdle_pre", _descriptor2, this);
+          _initializerDefineProperty(this, "load", _descriptor2, this);
 
-          _initializerDefineProperty(this, "Hurdle_images", _descriptor3, this);
+          _initializerDefineProperty(this, "over", _descriptor3, this);
+
+          _initializerDefineProperty(this, "Hurdle_images", _descriptor4, this);
 
           _defineProperty(this, "hurdle", []);
 
-          _defineProperty(this, "colide1", null);
+          _defineProperty(this, "butt", null);
 
-          _defineProperty(this, "colide2", null);
+          _defineProperty(this, "op", null);
+
+          _defineProperty(this, "score", 0);
+
+          _defineProperty(this, "track1", 0);
+
+          _defineProperty(this, "track2", 0);
+
+          _defineProperty(this, "colide1", null);
         }
 
         setcontentSize(rand, num) {
           if (rand == 0) {
-            this.hurdle[num].setContentSize(new Size(10, 18));
+            this.hurdle[num].getComponent(UITransform).setContentSize(new Size(10, 18));
+          } else if (rand == 1) {
+            this.hurdle[num].getComponent(UITransform).setContentSize(new Size(18, 16));
           } else {
-            this.hurdle[num].setContentSize(new Size(20, 18));
+            this.hurdle[num].getComponent(UITransform).setContentSize(new Size(15, 15));
           }
         }
 
@@ -110,46 +115,88 @@ System.register(["cc"], function (_export, _context) {
           return true;
         }
 
-        move(num) {
-          this.schedule(() => {
-            if (this.check(num)) {
-              this.hurdle[num].setPosition(new Vec3(this.hurdle[num].position.x - 1, this.hurdle[num].position.y, 1));
+        move() {
+          this.track++;
+
+          for (let i = 0; i < this.hurdle.length; i++) {
+            if (this.check(i)) {
+              this.hurdle[i].setPosition(new Vec3(this.hurdle[i].position.x - 1, this.hurdle[i].position.y, 1));
             }
-          }, 0.1);
-        }
-
-        start() {
-          this.assign(5);
-          this.move(5);
-          console.log("cocks points");
-          var qwe = this.node.getChildByName('cock').getComponent(UITransform).getBoundingBox();
-          console.log(qwe); //[3]
-        }
-
-        update(deltaTime) {
-          this.colide1 = Intersection2D.rectRect(this.node.getChildByName('cock').getComponent(UITransform).getBoundingBox(), this.hurdle[0].getComponent(UITransform).getBoundingBox());
-
-          if (this.colide1) {
-            director.pause();
-            console.log(this.node.getChildByName('cock').getComponent(UITransform).getBoundingBox());
           }
         }
 
-      }, _temp), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "hurdleType", [_dec2], {
-        configurable: true,
-        enumerable: true,
-        writable: true,
-        initializer: function () {
-          return [];
+        onLoad() {
+          this.butt = instantiate(this.load);
+          this.node.addChild(this.butt);
+          this.butt.getComponent(UITransform).setContentSize(new Size(200, 100));
+          this.butt.on(Node.EventType.MOUSE_UP, function (event) {
+            tween(this.butt).by(0.2, {
+              scale: new Vec2(0.2, 0.2)
+            }).to(0.5, {
+              scale: new Vec2(0, 0)
+            }).start();
+            this.schedule(this.move(), 0.01);
+          }, this);
+        } // restart()
+        // {
+        //     for(var i=0;i<this.hurdle.length;i++)
+        //     {
+        //         this.setposition(i);
+        //     }
+        //     this.op.on(Node.EventType.MOUSE_UP,function(event:any)
+        //         {
+        //             tween(this.op)
+        //             .by(0.2,{scale : new Vec2(0.2,0.2)})
+        //             .to(0.5,{scale : new Vec2(0,0)})
+        //             .start();
+        //             this.assign(0);
+        //             this.move(0);
+        //         },this);
+        // }
+
+
+        update(deltaTime) {
+          this.node.getChildByName('score').getComponent(Label).string = `Score : ${this.score}`;
+          if (this.track1 === 50) if (this.track2 === 100) {
+            this.assign(1);
+          }
+
+          for (let i = 0; i < this.hurdle.length; i++) {
+            this.colide1 = Intersection2D.rectRect(this.node.getChildByName('cock').getChildByName('cock1').getComponent(UITransform).getBoundingBoxToWorld(), this.hurdle[i].getComponent(UITransform).getBoundingBoxToWorld());
+            console.log(this.colide1);
+
+            if (this.colide1) {
+              this.op = instantiate(this.over);
+              this.node.addChild(this.op);
+              this.op.getComponent(UITransform).setContentSize(new Size(200, 100));
+              console.log("okaay restart calling");
+              director.pause();
+            }
+          }
         }
-      }), _descriptor2 = _applyDecoratedDescriptor(_class2.prototype, "hurdle_pre", [_dec3], {
+
+      }, _temp), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "hurdle_pre", [_dec2], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor3 = _applyDecoratedDescriptor(_class2.prototype, "Hurdle_images", [_dec4], {
+      }), _descriptor2 = _applyDecoratedDescriptor(_class2.prototype, "load", [_dec3], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor3 = _applyDecoratedDescriptor(_class2.prototype, "over", [_dec4], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "Hurdle_images", [_dec5], {
         configurable: true,
         enumerable: true,
         writable: true,

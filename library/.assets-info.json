@@ -1,6 +1,6 @@
 {
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images": {
-    "time": 1631165082638.9387,
+    "time": 1631273455894.9617,
     "uuid": "3c0fb44d-febf-4d42-ac53-115e44d429dc",
     "missing": false
   },
@@ -8,7 +8,7 @@
     "time": 1631093274182.4365
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene": {
-    "time": 1631183717574.118,
+    "time": 1631271012681.4448,
     "uuid": "0520a9ff-21ef-4832-b21b-b8b6f50b5cc3",
     "missing": false
   },
@@ -66,13 +66,8 @@
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg.ts.meta": {
     "time": 1631098132394.0803
   },
-  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scene.scene": {
-    "time": 1631106471095.0789,
-    "uuid": "177a5142-1d71-4a30-9577-7819c4e1e0c0",
-    "missing": false
-  },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/scene.scene.meta": {
-    "time": 1631101085777.4426
+    "time": 1631273548784.243
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg2.ts": {
     "time": 1631102109579.77,
@@ -83,7 +78,7 @@
     "time": 1631101608822.5361
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts": {
-    "time": 1631186511626.6973,
+    "time": 1631268746646.125,
     "uuid": "e0c166c7-19f3-4e54-9273-9fe10790549a",
     "missing": false
   },
@@ -158,20 +153,15 @@
     "time": 1631101085777.4426
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/scene.scene": {
-    "time": 1631183722326.7456,
+    "time": 1631278441292.0562,
     "uuid": "177a5142-1d71-4a30-9577-7819c4e1e0c0",
-    "missing": false
-  },
-  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/sprite.scene": {
-    "time": 1631166357599.4275,
-    "uuid": "733e1bdd-d6f3-4cf8-bebd-de57d388e46c",
     "missing": false
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/sprite.scene.meta": {
     "time": 1631166175044.6194
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/LargeCactus1.prefab": {
-    "time": 1631168741975.276,
+    "time": 1631265070249.5486,
     "uuid": "770a0346-8991-4ca2-95e8-976ae9571a64",
     "missing": false
   },
@@ -179,19 +169,86 @@
     "time": 1631166221573.017
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts": {
-    "time": 1631189461785.9585,
+    "time": 1631278447605.3684,
     "uuid": "2c186b55-8caf-4411-80c5-629873afccff",
     "missing": false
   },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts.meta": {
     "time": 1631166598506.7288
   },
-  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/jkl.scene": {
-    "time": 1631183776415.5627,
-    "uuid": "dee71408-a3e6-417b-9e43-ba3648c0f1de",
-    "missing": false
-  },
   "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/jkl.scene.meta": {
     "time": 1631183717579.147
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/facebook-play-button-png-clip-art-white-video-play-butto-11562848811ou9gl8ilch.png.meta": {
+    "time": 1631269292771.285
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button.png": {
+    "time": 1631269475369.5054,
+    "uuid": "a4142962-013c-46c0-922a-d138310344f1",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button.png.meta": {
+    "time": 1631269475422.8914
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button-Vector-PNG-Clipart.png": {
+    "time": 1631269615547.6326,
+    "uuid": "202b3374-9ed6-4241-a426-d57460ad1d1a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button-Vector-PNG-Clipart.png.meta": {
+    "time": 1631269615605.0073
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/Start-Button-Vector-PNG-Clipart.prefab": {
+    "time": 1631270981625.8525,
+    "uuid": "316244dc-61ac-4c94-b0f3-f6b82a506c6a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/Start-Button-Vector-PNG-Clipart.prefab.meta": {
+    "time": 1631270981626.9182
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/start.prefab.meta": {
+    "time": 1631270981626.9182
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/start.prefab": {
+    "time": 1631271893689.7454,
+    "uuid": "316244dc-61ac-4c94-b0f3-f6b82a506c6a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg": {
+    "time": 1631273283391.8384,
+    "uuid": "ffcd36ad-f382-4188-acdb-b1360c3d3223",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg.meta": {
+    "time": 1631273283445.3865
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.png": {
+    "time": 1631273400805.7432,
+    "uuid": "5c1495a6-f2df-4885-92b9-7adcc5f23697",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.png.meta": {
+    "time": 1631273400838.1702
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.prefab": {
+    "time": 1631273442337.5928,
+    "uuid": "6154a8a3-708d-4842-bad2-4342e9266bc9",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.prefab.meta": {
+    "time": 1631273442339.6157
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/game_over.prefab.meta": {
+    "time": 1631273442339.6157
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/game_over.prefab": {
+    "time": 1631273442337.5928,
+    "uuid": "6154a8a3-708d-4842-bad2-4342e9266bc9",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scene.scene": {
+    "time": 1631273548781.4172,
+    "uuid": "63f7c184-50f2-412e-9968-b5c4b9c12822",
+    "missing": false
   }
 }

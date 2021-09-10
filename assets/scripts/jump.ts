@@ -1,5 +1,5 @@
 
-import { _decorator, Component, Node, systemEvent, SystemEvent, tween, Vec3, KeyCode, animation, SpriteFrame, Enum, instantiate, Prefab,Intersection2D, UITransform, Rect } from 'cc';
+import { _decorator, Component, Node, systemEvent, SystemEvent, tween, Vec3, KeyCode, animation, SpriteFrame, Enum, instantiate, Prefab,Intersection2D, UITransform, Rect, Vec2 } from 'cc';
 const { ccclass, property } = _decorator;
 
 /**
@@ -27,8 +27,9 @@ export class Jump extends Component {
     start () {
        
         this.animmation=  tween(this.node)
-        .by(1,{position: new Vec3(10,50,1)},{easing: 'fade' })
-        .by(0.5,{position: new Vec3(0,-50,1)},{easing: 'fade' });
+      
+        .by(0.8,{position: new Vec3(0,50,1)},{easing: 'fade' })
+        .by(0.7,{position: new Vec3(0,-50,1)},{easing: 'fade' });
      
     }
 

@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 11885.133724000305,
+    "mTimestamp": 9008.768060998991,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -299,7 +299,7 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 25737766.955549,
+    "mTimestamp": 21322410.261961997,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
@@ -487,7 +487,7 @@
     ]
   },
   "file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts": {
-    "mTimestamp": 1631186511626.6973,
+    "mTimestamp": 1631268746646.125,
     "chunkId": "assets/scripts/jump.js",
     "imports": [
       {
@@ -498,11 +498,11 @@
         "loc": {
           "start": {
             "line": 2,
-            "column": 177
+            "column": 183
           },
           "end": {
             "line": 2,
-            "column": 181
+            "column": 187
           }
         }
       }
@@ -522,7 +522,7 @@
     ]
   },
   "file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts": {
-    "mTimestamp": 1631189461785.9585,
+    "mTimestamp": 1631278447605.3684,
     "chunkId": "assets/scripts/gameplay.js",
     "imports": [
       {
@@ -533,11 +533,11 @@
         "loc": {
           "start": {
             "line": 2,
-            "column": 156
+            "column": 195
           },
           "end": {
             "line": 2,
-            "column": 160
+            "column": 199
           }
         }
       }

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pngtree-game-over-pixel-and-skull-png-image_2128139",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 360,
+      "height": 360
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 360,
+      "height": 360
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ffcd36ad-f382-4188-acdb-b1360c3d3223@6c48a",
+    "packable": true
+  }
+}

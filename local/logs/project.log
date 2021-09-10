@@ -1,335 +1,352 @@
-2021-09-09 10:32:12-log: [Package] menu@1.0.0 enable
-2021-09-09 10:32:12-log: [Package] profile@1.0.0 enable
-2021-09-09 10:32:12-log: [Package] messages@1.0.0 enable
-2021-09-09 10:32:12-log: [Package] program@1.0.0 enable
-2021-09-09 10:32:12-log: [Package] device@1.0.1 enable
-2021-09-09 10:32:12-log: [Package] ui-kit@1.0.1 enable
-2021-09-09 10:32:13-log: [Package] tester@1.0.0 enable
-2021-09-09 10:32:13-log: [Package] preferences@1.0.0 enable
-2021-09-09 10:32:13-log: Setup mods mgr.: 388.473ms
-2021-09-09 10:32:13-log: [Package] engine@1.0.5 enable
-2021-09-09 10:32:18-log: [Package] programming@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] asset-db@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] console@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] scene@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] project@1.0.1 enable
-2021-09-09 10:32:18-log: [Package] about@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] server@1.0.0 enable
-2021-09-09 10:32:18-warn: Server: Port 7456 is occupied
-2021-09-09 10:32:18-log: [Package] utils@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] assets@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] inspector@1.0.0 enable
-2021-09-09 10:32:18-log: [Package] hierarchy@1.0.0 enable
-2021-09-09 10:32:21-log: [Package] preview@1.0.1 enable
-2021-09-09 10:32:21-log: [Package] animator@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] builder@1.2.8 enable
-2021-09-09 10:32:22-log: [Package] node-library@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] shortcuts@1.0.1 enable
-2021-09-09 10:32:22-log: [Package] importer@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] package-asset@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] reference-image@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] channel-upload-tools@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] runtime-dev-tools@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] alipay-mini-game@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] android@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] baidu-mini-game@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] bytedance-mini-game@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] huawei-agc@1.0.0 enable
-2021-09-09 10:32:22-warn: ios:Developer team information not found
-2021-09-09 10:32:22-warn: Command failed: xcrun security find-identity -v -p codesigning
+2021-09-10 12:28:49-log: [Package] menu@1.0.0 enable
+2021-09-10 12:28:49-log: [Package] profile@1.0.0 enable
+2021-09-10 12:28:49-log: [Package] messages@1.0.0 enable
+2021-09-10 12:28:49-log: [Package] program@1.0.0 enable
+2021-09-10 12:28:49-log: [Package] device@1.0.1 enable
+2021-09-10 12:28:49-log: [Package] ui-kit@1.0.1 enable
+2021-09-10 12:28:49-log: [Package] tester@1.0.0 enable
+2021-09-10 12:28:49-log: [Package] preferences@1.0.0 enable
+2021-09-10 12:28:50-log: Setup mods mgr.: 346.14ms
+2021-09-10 12:28:50-log: [Package] engine@1.0.5 enable
+2021-09-10 12:28:54-log: [Package] programming@1.0.0 enable
+2021-09-10 12:28:54-log: [Package] asset-db@1.0.0 enable
+2021-09-10 12:28:54-log: [Package] console@1.0.0 enable
+2021-09-10 12:28:54-log: [Package] scene@1.0.0 enable
+2021-09-10 12:28:54-log: [Package] project@1.0.1 enable
+2021-09-10 12:28:54-log: [Package] about@1.0.0 enable
+2021-09-10 12:28:54-log: [Package] server@1.0.0 enable
+2021-09-10 12:28:55-log: [Package] utils@1.0.0 enable
+2021-09-10 12:28:55-log: [Package] assets@1.0.0 enable
+2021-09-10 12:28:55-log: [Package] inspector@1.0.0 enable
+2021-09-10 12:28:55-log: [Package] hierarchy@1.0.0 enable
+2021-09-10 12:28:57-log: [Package] preview@1.0.1 enable
+2021-09-10 12:28:57-log: [Package] animator@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] builder@1.2.8 enable
+2021-09-10 12:28:58-log: [Package] node-library@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] shortcuts@1.0.1 enable
+2021-09-10 12:28:58-log: [Package] importer@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] package-asset@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] reference-image@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] channel-upload-tools@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] alipay-mini-game@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] android@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] baidu-mini-game@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] bytedance-mini-game@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] huawei-agc@1.0.0 enable
+2021-09-10 12:28:58-warn: ios:Developer team information not found
+2021-09-10 12:28:58-warn: Command failed: xcrun security find-identity -v -p codesigning
 xcrun: error: active developer path ("/Applications/Xcode 10.2.app/Contents/Developer") does not exist
 Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
 See `man xcode-select` for more details.
 
-2021-09-09 10:32:22-log: [Package] ios@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] ios-app-clip@1.0.0 enable
-2021-09-09 10:32:22-log: [Package] mac@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] native@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] ohos@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] web-desktop@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] web-mobile@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] wechatgame@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] windows@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] xiaomi-quick-game@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] cocos-play@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] huawei-quick-game@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] link-sure@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] oppo-mini-game@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] qtt@1.0.0 enable
-2021-09-09 10:32:23-log: [Package] vivo-mini-game@1.0.0 enable
-2021-09-09 10:32:24-log: [Package] cocos-service@3.0.1 enable
-2021-09-09 10:32:24-log: [Package] extension@3.0.8 enable
-2021-09-09 10:32:25-log: [Package] im-plugin@3.0.6 enable
-2021-09-09 10:32:25-log: [Package] lightmap@1.0.3 enable
-2021-09-09 10:32:31-log: [Scene] begin init
-2021-09-09 10:32:31-log: [Scene] require engine end
-2021-09-09 10:32:31-log: [Scene] Serialize end
-2021-09-09 10:32:31-log: [Scene] configureStartup end
-2021-09-09 10:32:31-info: [Scene] WebGL2 device initialized.
-2021-09-09 10:32:31-log: [Scene] Cocos Creator v3.3.0
-2021-09-09 10:32:32-info: [Scene] Forward render pipeline initialized.
-2021-09-09 10:32:32-log: [Scene] openEngine end
-2021-09-09 10:32:32-log: [Scene] configureEngine end
-2021-09-09 10:34:43-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:34:43-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
+2021-09-10 12:28:58-log: [Package] ios@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] ios-app-clip@1.0.0 enable
+2021-09-10 12:28:58-log: [Package] mac@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] native@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] ohos@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] web-desktop@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] web-mobile@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] wechatgame@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] windows@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] cocos-play@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] huawei-quick-game@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] link-sure@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] oppo-mini-game@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] qtt@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] vivo-mini-game@1.0.0 enable
+2021-09-10 12:28:59-log: [Package] cocos-service@3.0.1 enable
+2021-09-10 12:29:00-log: [Package] extension@3.0.8 enable
+2021-09-10 12:29:00-log: [Package] im-plugin@3.0.6 enable
+2021-09-10 12:29:00-log: [Package] lightmap@1.0.3 enable
+2021-09-10 12:29:05-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (111:14)
 
-2021-09-09 10:34:43-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
+  109 |
+  110 |             }
+> 111 |              },
+      |               ^
+  112 |               0.1);
+  113 |         
+  114 |     }.
+2021-09-10 12:29:05-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (111:14)
 
-2021-09-09 10:34:43-error: [Scene] Cannot read property 'filter' of null
-2021-09-09 10:34:55-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:34:55-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:34:55-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:37:58-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:37:58-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:37:58-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:39:27-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:39:27-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:39:27-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:40:52-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (30:4)
-
-  28 |         // [3]
-  29 |         this.animmation=   
-> 30 |     }
-     |     ^
-  31 |     public animmation:any=null;
-  32 |     dragonJump(event:any)
-  33 |     {.
-2021-09-09 10:40:52-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (30:4)
-
-  28 |         // [3]
-  29 |         this.animmation=   
-> 30 |     }
-     |     ^
-  31 |     public animmation:any=null;
-  32 |     dragonJump(event:any)
-  33 |     {.
-2021-09-09 10:40:52-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:40:52-warn: [Scene] Missing class: e0c16bHGfNOVJJzn+EHkFSa
-2021-09-09 10:40:52-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:40:52-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock_PNG19932" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
-
-2021-09-09 10:40:52-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:40:52-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock_PNG19932" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
-
-2021-09-09 10:41:54-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:41:54-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:41:54-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:43:24-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:43:24-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:43:24-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:50:06-warn: [Scene] Missing class: 13fa5ZvPuBNabAvYVWbCUtT
-2021-09-09 10:50:06-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 10:50:06-error: [Scene] Script "13fa5ZvPuBNabAvYVWbCUtT" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
-Script UUID: "13fa566f-3ee0-4d69-b02f-61559b094b53"
-Class ID: "13fa5ZvPuBNabAvYVWbCUtT"
-
-2021-09-09 11:01:20-error: [Scene] HURDLE is not defined
-2021-09-09 11:01:20-warn: [Scene] Missing class: e0c16bHGfNOVJJzn+EHkFSa
-2021-09-09 11:01:20-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock_PNG19932" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
-
-2021-09-09 11:01:20-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock_PNG19932" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
-
-2021-09-09 11:45:20-error: [Scene] Deserialize Jump failed, TypeError: Cannot read property 'position' of null
-    at new Jump (/Users/chandankrishnani/CocosPractice/Dragon/temp/programming/packer-driver/targets/editor/mods/fs/0/assets/scripts/jump.js:46:50)
-    at createObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100170:19)
-    at _Deserializer._deserializeTypeTaggedObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100187:21)
-    at _Deserializer._deserializeObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100097:23)
-    at _Deserializer._deserializeAndAssignField (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100284:32)
-    at _Deserializer._deserializeArray (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100131:34)
-    at _Deserializer._deserializeObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100103:23)
-    at _Deserializer._deserializeAndAssignField (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100298:30)
-    at /Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99962:13
-    at _Deserializer._deserializeFireClass (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100266:5)
-2021-09-09 11:45:20-warn: [Scene] Can not find script 'e0c166c7-19f3-4e54-9273-9fe10790549a'
-2021-09-09 11:45:25-error: [preview-error]Cannot read properties of null (reading 'position')
-2021-09-09 11:45:25-error: [preview-error]Cannot read properties of null (reading 'position')
-2021-09-09 11:45:26-error: [preview-error]Cannot read properties of null (reading 'position')
-2021-09-09 11:49:52-error: [Scene] Deserialize Jump failed, TypeError: Cannot read property 'position' of null
-    at new Jump (/Users/chandankrishnani/CocosPractice/Dragon/temp/programming/packer-driver/targets/editor/mods/fs/0/assets/scripts/jump.js:46:50)
-    at createObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100170:19)
-    at _Deserializer._deserializeTypeTaggedObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100187:21)
-    at _Deserializer._deserializeObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100097:23)
-    at _Deserializer._deserializeAndAssignField (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100284:32)
-    at _Deserializer._deserializeArray (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100131:34)
-    at _Deserializer._deserializeObject (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100103:23)
-    at _Deserializer._deserializeAndAssignField (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100298:30)
-    at /Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99962:13
-    at _Deserializer._deserializeFireClass (/Users/chandankrishnani/Documents/project/CocosCreator 2.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:100266:5)
-2021-09-09 11:49:52-warn: [Scene] Can not find script 'e0c166c7-19f3-4e54-9273-9fe10790549a'
-2021-09-09 11:49:55-error: [preview-error]Cannot read properties of null (reading 'position')
-2021-09-09 11:49:55-error: [preview-error]Cannot read properties of null (reading 'position')
-2021-09-09 11:49:55-error: [preview-error]Cannot read properties of null (reading 'position')
-2021-09-09 11:50:00-error: [preview-error]Cannot read properties of null (reading 'position')
-2021-09-09 11:54:21-error: Message response error: parameter error
-2021-09-09 12:55:20-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'position') in http://localhost:7457/scripting/x/mods/fs/0/assets/scripts/gameplay.js
-2021-09-09 12:55:48-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'position') in http://localhost:7457/scripting/x/mods/fs/0/assets/scripts/gameplay.js
-2021-09-09 12:56:20-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'x') in http://localhost:7457/scripting/x/mods/fs/0/assets/scripts/gameplay.js
-2021-09-09 12:56:29-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'x') in http://localhost:7457/scripting/x/mods/fs/0/assets/scripts/gameplay.js
-2021-09-09 13:02:44-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (121:0)
-
-  119 |     //     // [4]
-  120 |     // }
-> 121 | }
-      | ^
-  122 |
-  123 | /**
-  124 |  * [1] Class member could be defined like this..
-2021-09-09 13:02:44-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (121:0)
-
-  119 |     //     // [4]
-  120 |     // }
-> 121 | }
-      | ^
-  122 |
-  123 | /**
-  124 |  * [1] Class member could be defined like this..
-2021-09-09 13:02:44-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
-2021-09-09 13:02:44-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+  109 |
+  110 |             }
+> 111 |              },
+      |               ^
+  112 |               0.1);
+  113 |         
+  114 |     }.
+2021-09-10 12:29:05-log: [Scene] begin init
+2021-09-10 12:29:05-log: [Scene] require engine end
+2021-09-10 12:29:05-log: [Scene] Serialize end
+2021-09-10 12:29:05-log: [Scene] configureStartup end
+2021-09-10 12:29:05-info: [Scene] WebGL2 device initialized.
+2021-09-10 12:29:05-log: [Scene] Cocos Creator v3.3.0
+2021-09-10 12:29:05-info: [Scene] Forward render pipeline initialized.
+2021-09-10 12:29:06-log: [Scene] openEngine end
+2021-09-10 12:29:06-log: [Scene] configureEngine end
+2021-09-10 12:29:06-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 12:29:06-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" in scene "scene" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scene/scene"
 Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
 Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 13:02:44-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+2021-09-10 12:29:06-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" in scene "scene" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scene/scene"
 Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
 Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 13:03:18-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (122:0)
+2021-09-10 12:30:37-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (111:14)
 
-  120 |     //     // [4]
-  121 |     // }
-> 122 | }
-      | ^
-  123 |
-  124 | /**
-  125 |  * [1] Class member could be defined like this..
-2021-09-09 13:03:19-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (122:0)
+  109 |
+  110 |             }
+> 111 |              },
+      |               ^
+  112 |               0.1);
+  113 |         
+  114 |     }.
+2021-09-10 12:30:37-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (111:14)
 
-  120 |     //     // [4]
-  121 |     // }
-> 122 | }
-      | ^
-  123 |
-  124 | /**
-  125 |  * [1] Class member could be defined like this..
-2021-09-09 13:03:19-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
-2021-09-09 13:03:19-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+  109 |
+  110 |             }
+> 111 |              },
+      |               ^
+  112 |               0.1);
+  113 |         
+  114 |     }.
+2021-09-10 12:30:37-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 12:30:37-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
 Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
 Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 13:03:19-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+2021-09-10 12:30:37-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
 Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
 Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 15:12:16-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (107:0)
+2021-09-10 13:07:25-error: [Scene] Can't add component 'cc.Graphics' to cock because it conflicts with the existing 'cc.Sprite' derived component.
+2021-09-10 13:07:46-error: [Scene] Can't add component 'cc.Graphics' to cock because it conflicts with the existing 'cc.Sprite' derived component.
+2021-09-10 14:25:07-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (144:178)
 
-  105 |  * Learn more about life-cycle callbacks: https://docs.cocos.com/creator/3.3/manual/en/scripting/life-cycle-callbacks.html
-  106 |  */
-> 107 |
-      | ^.
-2021-09-09 15:12:16-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (107:0)
+  142 |     update (deltaTime: number) {
+  143 |         this.node.getChildByName('score').getComponent(Label).string=`Score : ${this.score}`;
+> 144 |         let a:Vec2=new (this.node.getChildByName('cock').getComponent(UITransform).contentSize.width,this.node.getChildByName('cock').getComponent(UITransform).contentSize.width,)
+      |                                                                                                                                                                                   ^
+  145 |
+  146 |             if(this.colide1)
+  147 |             {.
+2021-09-10 14:25:07-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (144:178)
 
-  105 |  * Learn more about life-cycle callbacks: https://docs.cocos.com/creator/3.3/manual/en/scripting/life-cycle-callbacks.html
-  106 |  */
-> 107 |
-      | ^.
-2021-09-09 15:12:16-warn: [Scene] Missing class: e0c16bHGfNOVJJzn+EHkFSa
-2021-09-09 15:12:16-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
+  142 |     update (deltaTime: number) {
+  143 |         this.node.getChildByName('score').getComponent(Label).string=`Score : ${this.score}`;
+> 144 |         let a:Vec2=new (this.node.getChildByName('cock').getComponent(UITransform).contentSize.width,this.node.getChildByName('cock').getComponent(UITransform).contentSize.width,)
+      |                                                                                                                                                                                   ^
+  145 |
+  146 |             if(this.colide1)
+  147 |             {.
+2021-09-10 14:25:07-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 14:25:07-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 15:12:16-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
+2021-09-10 14:25:07-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 15:13:12-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (107:0)
+2021-09-10 15:02:00-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'position') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
+2021-09-10 15:21:57-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
 
-  105 |  * Learn more about life-cycle callbacks: https://docs.cocos.com/creator/3.3/manual/en/scripting/life-cycle-callbacks.html
-  106 |  */
-> 107 |
-      | ^.
-2021-09-09 15:13:12-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (107:0)
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:21:57-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
 
-  105 |  * Learn more about life-cycle callbacks: https://docs.cocos.com/creator/3.3/manual/en/scripting/life-cycle-callbacks.html
-  106 |  */
-> 107 |
-      | ^.
-2021-09-09 15:13:12-warn: [Scene] Missing class: e0c16bHGfNOVJJzn+EHkFSa
-2021-09-09 15:13:12-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:21:57-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 15:21:57-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 15:13:12-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
+2021-09-10 15:21:57-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 15:13:46-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (107:0)
+2021-09-10 15:22:24-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
 
-  105 |  * Learn more about life-cycle callbacks: https://docs.cocos.com/creator/3.3/manual/en/scripting/life-cycle-callbacks.html
-  106 |  */
-> 107 |
-      | ^.
-2021-09-09 15:13:46-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts: SyntaxError: unknown: Unexpected token (107:0)
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:22:24-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
 
-  105 |  * Learn more about life-cycle callbacks: https://docs.cocos.com/creator/3.3/manual/en/scripting/life-cycle-callbacks.html
-  106 |  */
-> 107 |
-      | ^.
-2021-09-09 15:13:46-warn: [Scene] Missing class: e0c16bHGfNOVJJzn+EHkFSa
-2021-09-09 15:13:46-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:22:24-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 15:22:24-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
-2021-09-09 15:13:46-error: [Scene] Script "e0c16bHGfNOVJJzn+EHkFSa" attached to "cock" is missing or invalid. Detailed information:
-Script UUID: "e0c166c7-19f3-4e54-9273-9fe10790549a"
-Class ID: "e0c16bHGfNOVJJzn+EHkFSa"
+2021-09-10 15:22:24-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
 
+2021-09-10 15:22:57-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
+
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:22:58-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
+
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:22:58-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 15:22:58-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 15:22:58-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 15:24:01-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
+
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:24:01-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
+
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:24:01-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 15:24:01-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 15:24:01-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 15:24:17-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
+
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:24:17-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token (168:25)
+
+  166 |             if(this.colide1)
+  167 |             {
+> 168 |                 director.();
+      |                          ^
+  169 |              
+  170 |             }
+  171 |         }.
+2021-09-10 15:24:17-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 15:24:17-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 15:24:17-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 16:03:17-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token, expected "," (146:19)
+
+  144 |         {
+  145 |             tween(this.node.getChildByName('start'))
+> 146 |             .to(0.5{scale:new Vec2(0,0)})
+      |                    ^
+  147 |             .start();
+  148 |             
+  149 |         });.
+2021-09-10 16:03:17-error: Failed to load module file:///Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts: SyntaxError: unknown: Unexpected token, expected "," (146:19)
+
+  144 |         {
+  145 |             tween(this.node.getChildByName('start'))
+> 146 |             .to(0.5{scale:new Vec2(0,0)})
+      |                    ^
+  147 |             .start();
+  148 |             
+  149 |         });.
+2021-09-10 16:03:17-warn: [Scene] Missing class: 2c186tVjK9EEYDFYphzr8z/
+2021-09-10 16:03:17-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 16:03:17-error: [Scene] Script "2c186tVjK9EEYDFYphzr8z/" attached to "mountains-at-night-vector" is missing or invalid. Detailed information:
+Script UUID: "2c186b55-8caf-4411-80c5-629873afccff"
+Class ID: "2c186tVjK9EEYDFYphzr8z/"
+
+2021-09-10 16:03:53-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'node') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
+2021-09-10 16:05:16-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'node') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
+2021-09-10 16:06:48-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'node') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
+2021-09-10 16:15:55-error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2021-09-10 16:15:55-error: [Window] Cannot read property 'value' of undefined
+2021-09-10 16:15:55-error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2021-09-10 16:15:55-error: [Window] Cannot read property 'value' of undefined
+2021-09-10 16:15:56-error: [Window] [Vue warn]: Error in v-on handler: "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2021-09-10 16:15:56-error: [Window] Cannot read property 'value' of undefined
+2021-09-10 16:19:51-error: [Scene] Cannot read property 'filter' of null
+2021-09-10 16:20:48-error: [preview-error]Uncaught TypeError: Cannot read properties of null (reading 'node') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
+2021-09-10 16:35:04-error: [Scene] Cannot read property 'filter' of null
+2021-09-10 16:39:48-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'assign') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
+2021-09-10 16:44:01-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'assign') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
+2021-09-10 16:49:25-error: [preview-error]Uncaught TypeError: Cannot read properties of undefined (reading 'dk') in http://localhost:7456/scripting/x/mods/fs/0/assets/scripts/gameplay.js
