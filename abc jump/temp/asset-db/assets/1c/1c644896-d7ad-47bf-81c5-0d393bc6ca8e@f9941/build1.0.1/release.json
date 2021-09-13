@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "1cZEiW161Hv4HFDTk7xsqO@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "LargeCactus3",
+            "rect": {
+                "x": 0,
+                "y": 2,
+                "width": 101,
+                "height": 93
+            },
+            "offset": {
+                "x": -0.5,
+                "y": -1
+            },
+            "originalSize": {
+                "width": 102,
+                "height": 95
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

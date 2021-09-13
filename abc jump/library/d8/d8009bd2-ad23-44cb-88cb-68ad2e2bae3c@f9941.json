@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mountains-at-night-vector",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 632,
+      "height": 200
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 632,
+      "height": 200
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d8009bd2-ad23-44cb-88cb-68ad2e2bae3c@6c48a",
+    "packable": true
+  }
+}

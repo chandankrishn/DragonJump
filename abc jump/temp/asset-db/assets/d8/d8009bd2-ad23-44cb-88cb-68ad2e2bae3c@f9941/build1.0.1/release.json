@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "d8AJvSrSNEy4jLaK0uK648@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "mountains-at-night-vector",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 632,
+                "height": 200
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 632,
+                "height": 200
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

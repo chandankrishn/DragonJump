@@ -1,0 +1,663 @@
+{
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images": {
+    "time": 1631273455894.9617,
+    "uuid": "3c0fb44d-febf-4d42-ac53-115e44d429dc",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images.meta": {
+    "time": 1631093274182.4365
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene": {
+    "time": 1631271012681.4448,
+    "uuid": "0520a9ff-21ef-4832-b21b-b8b6f50b5cc3",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene.meta": {
+    "time": 1631093309529.8623
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts": {
+    "time": 1631166598505.2468,
+    "uuid": "b069d55e-8025-4eb8-9b7d-9ebeb4c7f553",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts.meta": {
+    "time": 1631093328267.3728
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/download (1).jpeg": {
+    "time": 1631093394623.4824,
+    "uuid": "dbddbe90-c762-4e08-9089-343a743457d4",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/download (1).jpeg.meta": {
+    "time": 1631093394642.1802
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/cock_PNG19932.png": {
+    "time": 1631093693343.744,
+    "uuid": "6b3f1d6a-6f5a-4b05-8490-12dfb4ec7164",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/cock_PNG19932.png.meta": {
+    "time": 1631093693368.746
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/mountains-at-night-vector.jpeg": {
+    "time": 1631093811265.3057,
+    "uuid": "d8009bd2-ad23-44cb-88cb-68ad2e2bae3c",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/mountains-at-night-vector.jpeg.meta": {
+    "time": 1631093811280.733
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/images.png": {
+    "time": 1631094188098.547,
+    "uuid": "46d6bc14-5e9f-49e8-b380-bb5ac4967841",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/images.png.meta": {
+    "time": 1631094188116.3752
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/base.ts": {
+    "time": 1631097823742.3198,
+    "uuid": "0c9d0261-5c7f-46fc-a4ef-44922757bb2b",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/base.ts.meta": {
+    "time": 1631095001075.0693
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg.ts.meta": {
+    "time": 1631098132394.0803
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scene.scene.meta": {
+    "time": 1631273548784.243
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg2.ts": {
+    "time": 1631102109579.77,
+    "uuid": "2febdaac-5bbf-4bfe-b8d4-41169adad76c",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/bg2.ts.meta": {
+    "time": 1631101608822.5361
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts": {
+    "time": 1631268746646.125,
+    "uuid": "e0c166c7-19f3-4e54-9273-9fe10790549a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/jump.ts.meta": {
+    "time": 1631163895383.5122
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus1.png": {
+    "time": 1631164976019.1533,
+    "uuid": "ca4db1b5-660d-49e4-a9a6-14e51970f636",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus1.png": {
+    "time": 1631164976019.2864,
+    "uuid": "134e0346-7b34-44e5-92fa-6e70a890d6d8",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus3.png": {
+    "time": 1631164976019.1587,
+    "uuid": "1c644896-d7ad-47bf-81c5-0d393bc6ca8e",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus2.png": {
+    "time": 1631164976019.1802,
+    "uuid": "f5ea6a86-277c-49a4-a6a6-55dbdefb2648",
+    "missing": true
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus1.png.meta": {
+    "time": 1631164976055.5974
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus1.png.meta": {
+    "time": 1631164976088.5461
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/LargeCactus3.png.meta": {
+    "time": 1631164976106.6902
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/SmallCactus2.png.meta": {
+    "time": 1631164976132.8394
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus1.png.meta": {
+    "time": 1631164976088.5461
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus1.png": {
+    "time": 1631164976019.2864,
+    "uuid": "134e0346-7b34-44e5-92fa-6e70a890d6d8",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus3.png.meta": {
+    "time": 1631164976106.6902
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/LargeCactus3.png": {
+    "time": 1631164976019.1587,
+    "uuid": "1c644896-d7ad-47bf-81c5-0d393bc6ca8e",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus1.png.meta": {
+    "time": 1631164976055.5974
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus1.png": {
+    "time": 1631164976019.1533,
+    "uuid": "ca4db1b5-660d-49e4-a9a6-14e51970f636",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus2.png.meta": {
+    "time": 1631164976132.8394
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/SmallCactus2.png": {
+    "time": 1631164976019.1802,
+    "uuid": "f5ea6a86-277c-49a4-a6a6-55dbdefb2648",
+    "missing": true
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/scene.scene.meta": {
+    "time": 1631101085777.4426
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/scene.scene": {
+    "time": 1631278441292.0562,
+    "uuid": "177a5142-1d71-4a30-9577-7819c4e1e0c0",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/sprite.scene.meta": {
+    "time": 1631166175044.6194
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/LargeCactus1.prefab": {
+    "time": 1631265070249.5486,
+    "uuid": "770a0346-8991-4ca2-95e8-976ae9571a64",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/LargeCactus1.prefab.meta": {
+    "time": 1631166221573.017
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts": {
+    "time": 1631278447605.3684,
+    "uuid": "2c186b55-8caf-4411-80c5-629873afccff",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scripts/gameplay.ts.meta": {
+    "time": 1631166598506.7288
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/jkl.scene.meta": {
+    "time": 1631183717579.147
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/facebook-play-button-png-clip-art-white-video-play-butto-11562848811ou9gl8ilch.png.meta": {
+    "time": 1631269292771.285
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button.png": {
+    "time": 1631269475369.5054,
+    "uuid": "a4142962-013c-46c0-922a-d138310344f1",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button.png.meta": {
+    "time": 1631269475422.8914
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button-Vector-PNG-Clipart.png": {
+    "time": 1631269615547.6326,
+    "uuid": "202b3374-9ed6-4241-a426-d57460ad1d1a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Start-Button-Vector-PNG-Clipart.png.meta": {
+    "time": 1631269615605.0073
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/Start-Button-Vector-PNG-Clipart.prefab": {
+    "time": 1631270981625.8525,
+    "uuid": "316244dc-61ac-4c94-b0f3-f6b82a506c6a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/Start-Button-Vector-PNG-Clipart.prefab.meta": {
+    "time": 1631270981626.9182
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/start.prefab.meta": {
+    "time": 1631270981626.9182
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Scene/start.prefab": {
+    "time": 1631271893689.7454,
+    "uuid": "316244dc-61ac-4c94-b0f3-f6b82a506c6a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg": {
+    "time": 1631273283391.8384,
+    "uuid": "ffcd36ad-f382-4188-acdb-b1360c3d3223",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg.meta": {
+    "time": 1631273283445.3865
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.png": {
+    "time": 1631273400805.7432,
+    "uuid": "5c1495a6-f2df-4885-92b9-7adcc5f23697",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.png.meta": {
+    "time": 1631273400838.1702
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.prefab": {
+    "time": 1631273442337.5928,
+    "uuid": "6154a8a3-708d-4842-bad2-4342e9266bc9",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/Game-Over-Yellow-Transparent-PNG.prefab.meta": {
+    "time": 1631273442339.6157
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/game_over.prefab.meta": {
+    "time": 1631273442339.6157
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/Images/game_over.prefab": {
+    "time": 1631273442337.5928,
+    "uuid": "6154a8a3-708d-4842-bad2-4342e9266bc9",
+    "missing": false
+  },
+  "/Users/chandankrishnani/CocosPractice/Dragon/assets/scene.scene": {
+    "time": 1631273548781.4172,
+    "uuid": "63f7c184-50f2-412e-9968-b5c4b9c12822",
+    "missing": true
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images": {
+    "time": 1631430339850.6877,
+    "uuid": "3c0fb44d-febf-4d42-ac53-115e44d429dc",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene": {
+    "time": 1631278505000,
+    "uuid": "0520a9ff-21ef-4832-b21b-b8b6f50b5cc3",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scene.scene": {
+    "time": 1631278505000,
+    "uuid": "63f7c184-50f2-412e-9968-b5c4b9c12822",
+    "missing": true
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts": {
+    "time": 1631420208192.5305,
+    "uuid": "b069d55e-8025-4eb8-9b7d-9ebeb4c7f553",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\cock_PNG19932.png": {
+    "time": 1631278505000,
+    "uuid": "6b3f1d6a-6f5a-4b05-8490-12dfb4ec7164",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\download (1).jpeg": {
+    "time": 1631278505000,
+    "uuid": "dbddbe90-c762-4e08-9089-343a743457d4",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\Game-Over-Yellow-Transparent-PNG.png": {
+    "time": 1631278505000,
+    "uuid": "5c1495a6-f2df-4885-92b9-7adcc5f23697",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\game_over.prefab": {
+    "time": 1631419782399.4814,
+    "uuid": "6154a8a3-708d-4842-bad2-4342e9266bc9",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\images.png": {
+    "time": 1631278505000,
+    "uuid": "46d6bc14-5e9f-49e8-b380-bb5ac4967841",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\LargeCactus1.png": {
+    "time": 1631278505000,
+    "uuid": "134e0346-7b34-44e5-92fa-6e70a890d6d8",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\LargeCactus3.png": {
+    "time": 1631278505000,
+    "uuid": "1c644896-d7ad-47bf-81c5-0d393bc6ca8e",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\mountains-at-night-vector.jpeg": {
+    "time": 1631278505000,
+    "uuid": "d8009bd2-ad23-44cb-88cb-68ad2e2bae3c",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg": {
+    "time": 1631278505000,
+    "uuid": "ffcd36ad-f382-4188-acdb-b1360c3d3223",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\SmallCactus1.png": {
+    "time": 1631278505000,
+    "uuid": "ca4db1b5-660d-49e4-a9a6-14e51970f636",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\Start-Button-Vector-PNG-Clipart.png": {
+    "time": 1631278505000,
+    "uuid": "202b3374-9ed6-4241-a426-d57460ad1d1a",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\Start-Button.png": {
+    "time": 1631278505000,
+    "uuid": "a4142962-013c-46c0-922a-d138310344f1",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene\\LargeCactus1.prefab": {
+    "time": 1631278505000,
+    "uuid": "770a0346-8991-4ca2-95e8-976ae9571a64",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene\\scene.scene": {
+    "time": 1631448565331.419,
+    "uuid": "177a5142-1d71-4a30-9577-7819c4e1e0c0",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene\\start.prefab": {
+    "time": 1631419782593.148,
+    "uuid": "316244dc-61ac-4c94-b0f3-f6b82a506c6a",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\base.ts": {
+    "time": 1631278505000,
+    "uuid": "0c9d0261-5c7f-46fc-a4ef-44922757bb2b",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\bg2.ts": {
+    "time": 1631278505000,
+    "uuid": "2febdaac-5bbf-4bfe-b8d4-41169adad76c",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\gameplay.ts": {
+    "time": 1631278505000,
+    "uuid": "2c186b55-8caf-4411-80c5-629873afccff",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\jump.ts": {
+    "time": 1631278505000,
+    "uuid": "e0c166c7-19f3-4e54-9273-9fe10790549a",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scene.scene.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\game_over.prefab.meta": {
+    "time": 1631419782406.462
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\download (1).jpeg.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\Game-Over-Yellow-Transparent-PNG.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\cock_PNG19932.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\LargeCactus1.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\LargeCactus3.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\mountains-at-night-vector.jpeg.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\SmallCactus1.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\images.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene\\LargeCactus1.prefab.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene\\scene.scene.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\base.ts.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\bg2.ts.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\gameplay.ts.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\jump.ts.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Scene\\start.prefab.meta": {
+    "time": 1631419782624.06
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\SmallCactus2.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\Start-Button.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\Images\\Start-Button-Vector-PNG-Clipart.png.meta": {
+    "time": 1631278505000
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\gameplay2.ts": {
+    "time": 1631442949611.5498,
+    "uuid": "bc3347a1-f757-4706-a674-8940bc400b71",
+    "missing": false
+  },
+  "C:\\Users\\krish\\Downloads\\DragonJump-up\\DragonJump-up\\assets\\scripts\\gameplay2.ts.meta": {
+    "time": 1631420208194.5251
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images": {
+    "time": 1631522933476.1887,
+    "uuid": "3c0fb44d-febf-4d42-ac53-115e44d429dc",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene": {
+    "time": 1631517492766.2607,
+    "uuid": "0520a9ff-21ef-4832-b21b-b8b6f50b5cc3",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scene.scene": {
+    "time": 1631233504000,
+    "uuid": "63f7c184-50f2-412e-9968-b5c4b9c12822",
+    "missing": true
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts": {
+    "time": 1631506999957.3264,
+    "uuid": "b069d55e-8025-4eb8-9b7d-9ebeb4c7f553",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/Game-Over-Yellow-Transparent-PNG.png": {
+    "time": 1631233504000,
+    "uuid": "5c1495a6-f2df-4885-92b9-7adcc5f23697",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/LargeCactus1.png": {
+    "time": 1631233504000,
+    "uuid": "134e0346-7b34-44e5-92fa-6e70a890d6d8",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/LargeCactus3.png": {
+    "time": 1631233504000,
+    "uuid": "1c644896-d7ad-47bf-81c5-0d393bc6ca8e",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/SmallCactus1.png": {
+    "time": 1631233504000,
+    "uuid": "ca4db1b5-660d-49e4-a9a6-14e51970f636",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/Start-Button-Vector-PNG-Clipart.png": {
+    "time": 1631233504000,
+    "uuid": "202b3374-9ed6-4241-a426-d57460ad1d1a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/Start-Button.png": {
+    "time": 1631233504000,
+    "uuid": "a4142962-013c-46c0-922a-d138310344f1",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/cock_PNG19932.png": {
+    "time": 1631233504000,
+    "uuid": "6b3f1d6a-6f5a-4b05-8490-12dfb4ec7164",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/download (1).jpeg": {
+    "time": 1631233504000,
+    "uuid": "dbddbe90-c762-4e08-9089-343a743457d4",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/game_over.prefab": {
+    "time": 1631374782000,
+    "uuid": "6154a8a3-708d-4842-bad2-4342e9266bc9",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/images.png": {
+    "time": 1631233504000,
+    "uuid": "46d6bc14-5e9f-49e8-b380-bb5ac4967841",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/mountains-at-night-vector.jpeg": {
+    "time": 1631233504000,
+    "uuid": "d8009bd2-ad23-44cb-88cb-68ad2e2bae3c",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg": {
+    "time": 1631233504000,
+    "uuid": "ffcd36ad-f382-4188-acdb-b1360c3d3223",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene/LargeCactus1.prefab": {
+    "time": 1631233504000,
+    "uuid": "770a0346-8991-4ca2-95e8-976ae9571a64",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene/scene.scene": {
+    "time": 1631530749979.921,
+    "uuid": "177a5142-1d71-4a30-9577-7819c4e1e0c0",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene/start.prefab": {
+    "time": 1631374782000,
+    "uuid": "316244dc-61ac-4c94-b0f3-f6b82a506c6a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/base.ts": {
+    "time": 1631233504000,
+    "uuid": "0c9d0261-5c7f-46fc-a4ef-44922757bb2b",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/bg2.ts": {
+    "time": 1631233504000,
+    "uuid": "2febdaac-5bbf-4bfe-b8d4-41169adad76c",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/gameplay.ts": {
+    "time": 1631233504000,
+    "uuid": "2c186b55-8caf-4411-80c5-629873afccff",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/gameplay2.ts": {
+    "time": 1631525159562.9456,
+    "uuid": "bc3347a1-f757-4706-a674-8940bc400b71",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/jump.ts": {
+    "time": 1631524547685.5925,
+    "uuid": "e0c166c7-19f3-4e54-9273-9fe10790549a",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scene.scene.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/LargeCactus1.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/SmallCactus1.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/Game-Over-Yellow-Transparent-PNG.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/LargeCactus3.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/game_over.prefab.meta": {
+    "time": 1631374782000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/Start-Button-Vector-PNG-Clipart.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/download (1).jpeg.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/Start-Button.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/cock_PNG19932.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene/LargeCactus1.prefab.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene/scene.scene.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/base.ts.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/images.png.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/mountains-at-night-vector.jpeg.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/bg2.ts.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/gameplay.ts.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/gameplay2.ts.meta": {
+    "time": 1631375208000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/scripts/jump.ts.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene/start.prefab.meta": {
+    "time": 1631374782000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/pngtree-game-over-pixel-and-skull-png-image_2128139.jpeg.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Scene/scene-001.scene.meta": {
+    "time": 1631233504000
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/SmallCactus2.png.meta": {
+    "time": 1631514164552.5713
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/SmallCactus2 (1).png": {
+    "time": 1631514318255.8677,
+    "uuid": "26eb722a-7301-4382-8069-ac24e5c8dcce",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/SmallCactus2 (1).png.meta": {
+    "time": 1631514318263.8293
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/1.png": {
+    "time": 1631522933474.7568,
+    "uuid": "6f04981d-e852-4c98-b980-25a3004343a4",
+    "missing": false
+  },
+  "/Users/chandankrishnani/Downloads/abc jump/assets/Images/1.png.meta": {
+    "time": 1631522989791.6653
+  }
+}

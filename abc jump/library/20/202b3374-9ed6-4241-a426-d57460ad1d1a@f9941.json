@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Start-Button-Vector-PNG-Clipart",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 1156,
+      "height": 612
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 1157,
+      "height": 613
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "202b3374-9ed6-4241-a426-d57460ad1d1a@6c48a",
+    "packable": true
+  }
+}
